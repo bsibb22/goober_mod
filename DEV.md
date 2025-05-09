@@ -2,6 +2,7 @@
 Below is a list of guidelines, template code, etc. for creating custom Jokers.
 
 # Joker Outline
+```
 SMODS.Joker{
 	key = 'ex_joker',                        -- key for the Joker used in the game; not super relevant
 	loc_txt = {                              
@@ -75,3 +76,4 @@ SMODS.Joker{
 		end
 	end
 }
+```
